@@ -5,10 +5,12 @@ EDR Detector
 It works perfectly in windows.
 
 Compile it in rust with whatever toolchain you want if you do not trust the executable :)
-
+If you know more driver names for other security solutions, let me know so i can add them :)
 <IMG SRC="https://raw.githubusercontent.com/trickster0/EDR_Detector/master/edrd.png"/>
 
-If you know more driver names for other security solutions, let me know so i can add them :)
+
+
+Credits also go to https://github.com/harleyQu1nn for making this list for cobalt strike plugin.
 
 Author: Thanasis Tserpelis aka trickster0
 
