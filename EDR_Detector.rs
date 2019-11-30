@@ -92,6 +92,7 @@ fn main() {
     edrs.insert("symrg.sys","Symantec has been detected.");
     edrs.insert("ndgdmk.sys","Verdasys Inc has been detected.");
     edrs.insert("ssfmonm.sys","Webroot Software has been detected.");
+    edrs.insert("dlpwpdfltr.sys","Trend Micro Software has been detected.");
 
     for entry in WalkDir::new("C:\\Windows\\System32\\drivers\\") 
         .follow_links(true)
