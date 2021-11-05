@@ -18,6 +18,8 @@ fn main() {
     edrs.insert("edrsensor.sys","BitDefender SRL has been detected.");
     edrs.insert("CarbonBlackK.sys","Carbon Black has been detected.");
     edrs.insert("parity.sys","Carbon Black has been detected.");
+    edrs.insert("cbk7.sys","Carbon Black has been detected.");
+    edrs.insert("cbstream" "Cargon Black has been detected.");
     edrs.insert("csacentr.sys","Cisco has been detected.");
     edrs.insert("csaenh.sys","Cisco has been detected.");
     edrs.insert("csareg.sys","Cisco has been detected.");
